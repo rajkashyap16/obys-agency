@@ -667,10 +667,8 @@ padding-right: 20vw;
     animation: 1s infinite;
   }
 
-/* 
-  #crsr{
-    opacity: 0;
-  } */
+
+ 
   #loader-animation{
     display: flex;
     flex-direction: column;
@@ -686,7 +684,7 @@ padding-right: 20vw;
 }
 
   /*======== page 1 responsive ========*/
-/* #page1 {
+#page1 {
   height: 60vh;
   width: 100%;
   background-color: #070707;
@@ -717,8 +715,8 @@ padding-right: 20vw;
 #nav-part2 h4 {
   font-size: 0.8vw;
   font-weight: 400;
-} */
-/* .hero {
+}
+.hero {
   width: 75%;
   margin-left: 6%;
   overflow-x: hidden;
@@ -756,7 +754,7 @@ left: 2%;
     border-bottom: 0.4vw solid white;
   margin-right: 0.8vw;
 
-}   */
+}  
 
 
 /* ========= Page 2 Responsive ========== */
