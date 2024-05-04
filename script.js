@@ -1,4 +1,4 @@
-document.body.style.cursor = 'none';
+// document.body.style.cursor = 'none';
 function locomotiveScrollTrigger() {
 
   gsap.registerPlugin(ScrollTrigger);
