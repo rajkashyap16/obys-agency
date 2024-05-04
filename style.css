@@ -669,7 +669,7 @@ padding-right: 20vw;
 
 
   #crsr{
-    display: none;
+    opacity: 0;
   }
   #loader-animation{
     display: flex;
