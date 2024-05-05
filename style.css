@@ -242,7 +242,7 @@ body{
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  z-index: 999;
+  z-index: 999 !important;
   padding-left: 10%;
 }
 .hero:nth-child(2) {
